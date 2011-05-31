@@ -1,0 +1,16 @@
+fee3a9b5758facdb9def74f002297fa3  usr/share/dbus-1/services/org.maemo.myclock.service
+f5623e0b276224b3fddd0cfd7e72c874  usr/share/doc/myclock/changelog.gz
+0c2e1313fdf9df259e0d9c0dc5cbbb04  usr/share/doc/myclock/copyright
+0d89b2e30f9fb8989e4f048192f4385d  usr/share/icons/hicolor/scalable/apps/myclock.png
+4bcdaa50da161d8fc85cb6b4719bbd22  usr/share/applications/hildon/myclock.desktop
+565c9616097ad715acd07f9fc61b9993  usr/share/liqbase/myclock/myclock
+0d89b2e30f9fb8989e4f048192f4385d  usr/share/liqbase/myclock/media/myclock.png
+1de8bb0436c5de46f40fcda4a105e1d3  usr/share/liqbase/myclock/media/myclock_design.imaminutes.png
+e704fa40d01aa20195f5d485855aecab  usr/share/liqbase/myclock/media/myclock_design.imaface.png
+0d89b2e30f9fb8989e4f048192f4385d  usr/share/liqbase/myclock/media/myclock_run.canvass.png
+0d89b2e30f9fb8989e4f048192f4385d  usr/share/liqbase/myclock/media/myclock_cover.preview.png
+513c0cb697ba25a32325b29b8434d7f7  usr/share/liqbase/myclock/media/myclock_design.imahours.png
+0d89b2e30f9fb8989e4f048192f4385d  usr/share/liqbase/myclock/media/myclock_editor.canvass.png
+7c5ca1d8fd25d48a0040ac78d1aee3d7  usr/share/liqbase/myclock/media/readme
+1a729359befec1ff2fe42c0c24a83d43  usr/share/liqbase/myclock/myclock.so
+adf0c4c591bbaa687d9c7d4681a0a705  usr/bin/myclock-run.sh

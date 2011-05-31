@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.maemo.myclock
+Exec=/usr/bin/myclock-run.sh

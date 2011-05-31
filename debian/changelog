@@ -1,0 +1,6 @@
+myclock (0.1.0) unstable; urgency=low
+
+  * myclock Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Gary Birkett <liquid@gmail.com>  Sun, 20 Mar 2011 01:25:26 +0000
+

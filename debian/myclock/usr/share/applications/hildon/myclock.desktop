@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=myclock
+Exec=/usr/bin/myclock-run.sh
+Type=Application
+Icon = myclock
+x-Window-Icon = myclock
+x-Window-Icon-Dimmed = myclock
+StartupWMClass=myclock
+X-Osso-Service=org.maemo.myclock
+X-Osso-Type=application/x-executable
+StartupNotify=false
